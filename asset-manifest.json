@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9baaa51a.css",
-    "main.js": "/static/js/main.cdf6f38e.js",
+    "main.css": "/static/css/main.45a22d5f.css",
+    "main.js": "/static/js/main.c978b4e2.js",
     "static/media/mainBackground2.jpg": "/static/media/mainBackground2.24d58da78c6d370c8188.jpg",
     "static/media/phantom-logo.png": "/static/media/phantom-logo.d8ea856be058ac55f853.png",
     "static/media/Retro Gaming.ttf": "/static/media/Retro Gaming.c1a52a602585b2d6baf8.ttf",
@@ -10,11 +10,11 @@
     "static/media/fg.png": "/static/media/fg.1aff9f5e110b575afb5a.png",
     "static/media/squirtle.png": "/static/media/squirtle.382e68f75a9687dd9fd9.png",
     "index.html": "/index.html",
-    "main.9baaa51a.css.map": "/static/css/main.9baaa51a.css.map",
-    "main.cdf6f38e.js.map": "/static/js/main.cdf6f38e.js.map"
+    "main.45a22d5f.css.map": "/static/css/main.45a22d5f.css.map",
+    "main.c978b4e2.js.map": "/static/js/main.c978b4e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9baaa51a.css",
-    "static/js/main.cdf6f38e.js"
+    "static/css/main.45a22d5f.css",
+    "static/js/main.c978b4e2.js"
   ]
 }
